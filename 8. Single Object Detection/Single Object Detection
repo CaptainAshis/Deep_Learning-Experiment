@@ -1,5 +1,5 @@
 
-
+## IMPLEMENTING FASTAI SINGLE OBJECT DETECTION
     load the data using pathlib (or, any other library)
 
     Convert the data into a python container or pandas dataframe.
